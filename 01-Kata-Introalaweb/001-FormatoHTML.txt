@@ -1,0 +1,15 @@
+<!DOCUMENTTYPE>
+<html>
+
+	<head>
+		<meta>
+		<title>Mi primera pagina</title>
+	</head>
+
+<body>
+	<header> Aqui van los menus de navegacion </header>
+	<main> Contenido,imagenes, informacion, formularios </main>
+	<footer> Informacion respecto a la empresa que posee la pagina </footer>
+</body>
+
+</html>
