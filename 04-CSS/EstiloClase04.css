@@ -1,0 +1,68 @@
+*{
+padding:0;
+margin:0;
+}
+
+header{
+    background-color:rgb(73, 42, 165);
+    color: white;
+    padding: 2px;
+}
+
+.pan{
+    background-color:burlywood;
+    
+    /*padding: 1em;*/
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-radius: 2em;
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style:solid;
+}
+
+.lechuga{
+    background-color: green;
+    height: 7px;
+    padding: 2em;
+}
+
+.queso{
+    background-color: rgb(235, 255, 59);
+    height: 7px;
+    padding: 2em;
+}
+
+.mayonesa{
+    background-color: rgb(254, 255, 193);
+    height: 7px;
+    padding: 2em;
+}
+
+.carne{
+    background-color: rgb(98, 0, 0);
+    height: 7px;
+    padding: 2em;
+}
+
+.renglon{
+    display: flex;
+    flex-direction: row;
+}
+
+.columna{
+    display: flex;
+    flex-direction: column;
+}
+
+.ancho1{
+    flex-grow: 1;
+}
+
+.ancho2{
+    flex-grow: 2;
+}
+
+.ancho3{
+    flex-grow: 3;
+}
